@@ -13,4 +13,4 @@ task2.o: task2.c #shows task2.o is dependent on task2.c and creates object
 
 clean:
 	rm -f *.o prog
-#deletes object files and executable files, but leaves source code untouched
+#deletes object files and executable files, but leaves source code untouched.
