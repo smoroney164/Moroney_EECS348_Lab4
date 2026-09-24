@@ -1,3 +1,14 @@
+// EECS 348 Lab 4
+// Purpose: C program that takes in temperature from user with scale and converts to another given scale. Prints temperature category and weather advisory.
+// Author: Sydney Moroney
+// Inputs: takes in temperature, original scale, and converted scale.
+// Outputs: prints converted temperature, temperature category, and weather advisory
+// Collaborators: Madelyn Armitage and Mikayla Pelletier helped conceptual and with edge case handling
+// Sources: Error trapping assisted by chatgpt
+// Creation Date: 9/23/26
+// Last Revision Date: 9/24/26
+
+
 #include <stdio.h>
 #include <ctype.h>
 
