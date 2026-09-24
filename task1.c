@@ -1,4 +1,12 @@
-
+// EECS 348 Lab 4
+// Purpose: C program that takes in score from user and outputs ll possible combinations of td2, td1, td, fg, and safetys to reach goal score
+// Author: Sydney Moroney
+// Inputs: takes in user input for score. 1 to stop
+// Outputs: prints all possible combinations
+// Collaborators: Madelyn Armitage and Mikayla Pelletier helped conceptual and with edge case handling
+// Sources: Nested if statements helped by chatgpt
+// Creation Date: 9/23/26
+// Last Revision Date: 9/24/26
 
 #include <stdio.h>
 
